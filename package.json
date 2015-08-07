@@ -1,0 +1,23 @@
+{
+  "name": "candy-shop-app",
+  "version": "1.0.0",
+  "description": "General Assembly App Lab",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jzelaya0/candy-shop-app.git"
+  },
+  "author": "Jesse Zelaya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jzelaya0/candy-shop-app/issues"
+  },
+  "homepage": "https://github.com/jzelaya0/candy-shop-app#readme",
+  "dependencies": {
+    "express": "^4.13.3",
+    "mongoose": "^4.1.1"
+  }
+}
